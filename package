@@ -1,0 +1,12 @@
+{
+  " nume " : " Test " ,
+  " descriere " : " Test " ,
+  " versiune " : " 0.0.0 " ,  " principal " : " Manager Master",
+  " scripts " : {
+    " start " : " nodul bot.js "
+  },
+  " dependențe " : {
+    " discord.js " : " 11.1.0 " ,
+    " cerere " : " 2.81.0 "
+  }
+}
